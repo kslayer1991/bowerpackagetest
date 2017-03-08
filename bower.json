@@ -1,0 +1,17 @@
+{
+  "name": "bowerpackage",
+  "description": "",
+  "main": "rotate.js",
+  "authors": [
+    "Kelvin"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
